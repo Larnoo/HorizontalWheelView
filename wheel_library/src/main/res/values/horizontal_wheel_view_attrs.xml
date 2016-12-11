@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="HorizontalWheelView">
+		<attr name="highlightTextColor" format="color|reference"/>
+		<attr name="normalTextColor" format="color|reference"/>
+		<attr name="highlightTextSize" format="dimension"/>
+		<attr name="normalTextSize" format="dimension"/>
+		<attr name="highlightTextBackground" format="color|reference"/>
+		<attr name="normalTextBackground" format="color|reference"/>
+		<attr name="textPaddingLeftAndRight" format="dimension"/>
+		<attr name="textPaddingTopAndBottom" format="dimension"/>
+	</declare-styleable>
+</resources>
